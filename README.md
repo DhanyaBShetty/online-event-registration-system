@@ -1,7 +1,7 @@
 # online-event-registration-system
 Version control repository for Online Event Registration System project.
 
-## 📁 Project Files
+## Project Files
 
 | File Name            | Purpose                   | Jira Task |
 |---------------------|---------------------------|-----------|
@@ -13,7 +13,7 @@ Version control repository for Online Event Registration System project.
 | admin-dashboard.html| Admin dashboard           | KAN-15    |
 
 
-## 🎯 Project Overview  
+## Project Overview  
 This system represents a simple UI mock-up of an online event registration platform.  
 It includes pages for:  
 - User login  
@@ -27,14 +27,14 @@ It is created only for SDLC workflow demonstration.
 
 ---
 
-## 🛠 Tools Used  
+## Tools Used  
 - **Jira** – Epics, tasks, backlog, board progress  
 - **Confluence** – Effort estimation and documentation  
 - **GitHub** – Version control and commit tracking  
 
 ---
 
-## 📌 SDLC Submission Components  
+## SDLC Submission Components  
 - Jira Board with tasks & progress  
 - Confluence Effort Estimation  
 - GitHub Repository with commits linked to Jira task IDs  
@@ -42,6 +42,6 @@ It is created only for SDLC workflow demonstration.
 
 ---
 
-## 🚀 How to View the Project  
+## How to View the Project  
 Download or clone the repository, then open any `.html` file in your browser.
 
